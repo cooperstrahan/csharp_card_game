@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/bin/Debug/netcoreapp2.2/CardGame.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/bin/Debug/netcoreapp2.2/CardGame.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/bin/Debug/netcoreapp2.2/CardGame.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/bin/Debug/netcoreapp2.2/CardGame.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/bin/Debug/netcoreapp2.2/CardGame.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/CardGame/obj/Debug/netcoreapp2.2/CardGame.pdb
